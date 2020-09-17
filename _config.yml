@@ -1,0 +1,20 @@
+# Site settings
+title: Who is Christian?
+description: This page has info on Christian Patterson
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Christian Patterson
+user_description: Coder, Debugger, Martial Artist, Gamer, and Preacher.
+user_title: Software Developer
+email: cpatt322@gmail.com
+twitter_username: None
+github_username:  None
+gplus_username:  None
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
